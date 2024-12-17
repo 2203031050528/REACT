@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.container{
+  display: flex;
+  height: 200px;
+  width: 90%;
+  background-color: #61dafb;
+}
+
+.card{
+  width: 100px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color:blue;
+  margin: 5px;
+}
